@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "will You Be My Valentine pls? 💝",
+    pageTitle: "loveujas 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -23,8 +23,8 @@ const CONFIG = {
     questions: {
         first: {
             text: "do u like me?",                                    // First interaction
-            yesBtn: "yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            yesBtn: "yes?",                                             // Text for "Yes" button
+            noBtn: "No! 😡",                                               // Text for "No" button
             secretAnswer: "YESSS!"           // Secret hover message
         },
         second: {
