@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "will You Be My Valentine pls?",                                    // First interaction
+            text: "do u like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
+            text: "How much do you love me? 🥺",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -43,14 +43,14 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "love uuuuuuu 🥰🥰🥰🥰😍😍😍💘💘",  // Shows when they go past 5000%
-        high: "urr soo cuteeee",              // Shows when they go past 1000%
+        high: "urr soo cuteeee 😍😍",              // Shows when they go past 1000%
         normal: "i love uu 🥰🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "yeheyyyy",
-        message: "i love youuuuuuuuuu -arkin",
+        message: "yeheyy, i love youuuuuuuuuu 💘 -arkin",
         emojis: "🎁💖🤗💝❤️💕😍🥰"  // These will bounce around
     },
 
